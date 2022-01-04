@@ -1,0 +1,8 @@
+@Service is an annotation in spring boot used to tell spring that whenever the service starts,
+ please execute the methods inside those class.
+
+ @PostConstruct telling spring whenever you construct the service after its done just execute this method.
+
+ @Scheduled is an annotation that schedules the run of the method on the regular basis.
+ (cron = "******") specifies to run every second,every minute
+
