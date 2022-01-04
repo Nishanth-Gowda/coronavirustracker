@@ -53,6 +53,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>Covid-19 Tracker</finalName>
     </build>
 
 </project>
